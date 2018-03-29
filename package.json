@@ -1,5 +1,5 @@
 {
-  "name": "meantutorial",
+  "name": "MeanStackContactApp",
   "version": "1.0.0",
   "description": "mean stack application",
   "main": "server.js",
@@ -11,7 +11,8 @@
     "MEAN",
     "stack"
   ],
-  "author": "David Acosta",
+  "author": "Danny Nasar",
+  "contributor": "David Acosta",
   "license": "ISC",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
