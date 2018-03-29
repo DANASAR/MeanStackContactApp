@@ -2,7 +2,7 @@
 
 This is an application demonstrating the basic components needed for a Single Page Application using MongoDB, ExpressJS, AngularJS, and NodeJS.
 
-A working example can be found [here](http://www.herokutestapp3z24.com/). 
+A working example can be found [here](http://www.WorkingExampleHere.com/). 
 
 ## Requirements
 
@@ -91,6 +91,11 @@ var email = {
 $ npm start server.js
 ```
 
+## Modified by
+
+Danny Nasar
+
+## Based on work of 
 ## Contributors
 
 David Acosta.
