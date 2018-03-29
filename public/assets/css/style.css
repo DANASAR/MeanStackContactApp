@@ -322,11 +322,15 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+/*
+ *5826a4f0d015d89e449ccb2a_3a3586cafd678954c62dd411566278b8-dl9ejl.jpg
+ */
+
 header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../images/5826a4f0d015d89e449ccb2a_3a3586cafd678954c62dd411566278b8-dl9ejl.jpg);
+    background-image: url(../images/DSCN2288.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -342,6 +346,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
+    color: blue;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 22px;
     font-style: italic;
@@ -350,6 +355,7 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
+    color: blue;
     text-transform: uppercase;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 50px;
@@ -692,10 +698,12 @@ section h3.section-subheading {
 .team-member p {
     margin-top: 0;
 }
-
+/*
+ *after_evac_by_tryingtofly-dauf4er.jpg
+ */
 section#contact {
     /*    background-color: #222;
-    background-image: url(../images/after_evac_by_tryingtofly-dauf4er.jpg);
+    background-image: url(../images/DSCN3581.jpg);
     background-position: center;
     background-repeat: no-repeat;*/
 }
